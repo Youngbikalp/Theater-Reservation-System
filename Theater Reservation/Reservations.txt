@@ -1,0 +1,7 @@
+0,bikalp,Miracle on 34th Street,08:30,2020-12-29,m1
+0,bikalp,Miracle on 34th Street,08:30,2020-12-29,m2
+0,bikalp,Miracle on 34th Street,08:30,2020-12-29,m3
+0,bikalp,Miracle on 34th Street,08:30,2020-12-29,m4
+1,bikalp,Miracle on 34th Street,06:30,2020-12-29,m51
+1,bikalp,Miracle on 34th Street,06:30,2020-12-29,m52
+2,bikalp,Miracle on 34th Street,06:30,2020-12-30,m52
